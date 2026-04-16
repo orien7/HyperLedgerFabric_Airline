@@ -5,5 +5,6 @@ Project is a test Airline company with its Business Logic model built to cater i
 - B2B partners
 
 For more information to build your BNA on Hyperledger, please contact me at uday.kumarbs@gmail.com
+LinkedIn : https://www.linkedin.com/in/udaykumarbs/
 
 
